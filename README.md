@@ -2,7 +2,7 @@
 This repository contains the files for labs related to ECSE 222 - Digital Logic at McGill University.
 
 ## Contributors
-John-Paul Chouery (JPGC04) and Alan Brotherton (AlanBrotherton)
+[John-Paul Chouery](https://github.com/JPGC04) and [Alan Brotherton](https://github.com/AlanBrotherton)
 
 ## Development Environment
 The labs were created using the Intel Quartus development environment, ensuring compatibility and seamless integration with Altera FPGAs. For simulation purposes, ModelSim was employed to rigorously test and validate the VHDL code.
